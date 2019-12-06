@@ -1,0 +1,227 @@
+Country,Country Code,Percentage of internet access
+Albania,ALB,66.4
+Algeria,DZA,42.9
+American Samoa,ASM,31.3
+Andorra,ADO,97.9
+Angola,AGO,13.0
+Anguilla,AIA,81.6
+Antarctica,ATA,100.0
+Antigua and Barbuda,ATG,65.2
+Argentina,ARG,70.2
+Armenia,ARM,62.0
+Aruba,ABW,93.5
+Australia,AUS,88.2
+Austria,AUT,84.3
+Azerbaijan,AZE,78.2
+"Bahamas, The",BHS,80.0
+Bahrain,BHR,98.0
+Bangladesh,BGD,18.2
+Barbados,BRB,79.5
+Belarus,BLR,71.1
+Belgium,BEL,86.5
+Belize,BLZ,44.6
+Benin,BEN,12.0
+Bermuda,BMU,98.0
+Bhutan,BTN,41.8
+Bolivia,BOL,39.7
+Bosnia and Herzegovina,BIH,69.3
+Botswana,BWA,39.4
+Brazil,BRA,59.7
+British Virgin Islands,VGB,43.6
+Brunei,BRN,71.2
+Bulgaria,BGR,59.8
+Burkina Faso,BFA,14.0
+Burma,MMR,25.1
+Burundi,BDI,5.2
+Cabo Verde,CPV,48.2
+Cambodia,KHM,25.6
+Cameroon,CMR,25.0
+Canada,CAN,89.8
+Cayman Islands,CYM,79.0
+Central African Republic,CAF,4.6
+Chad,TCD,5.0
+Chile,CHL,66.0
+China,CHN,53.2
+Christmas Island,CXR,35.8
+Colombia,COL,58.1
+Comoros,COM,7.9
+"Congo, Democratic Republic of the",COD,3.8
+"Congo, Republic of the",COG,7.6
+Cook Islands,COK,54.0
+Costa Rica,CRI,66.0
+Cote d'Ivoire,CIV,26.5
+Croatia,HRV,72.7
+Cuba,CUB,38.8
+Curacao,CUW,93.9
+Cyprus,CYP,75.9
+Czechia,CZE,76.5
+Denmark,DNK,97.0
+Djibouti,DJI,13.1
+Dominica,DMA,67.0
+Dominican Republic,DOM,61.3
+Ecuador,ECU,54.1
+Egypt,EGY,41.3
+El Salvador,SLV,29.0
+Equatorial Guinea,GNQ,23.8
+Eritrea,ERI,1.2
+Estonia,EST,87.2
+Eswatini,SWZ,28.6
+Ethiopia,ETH,15.4
+Falkland Islands (Islas Malvinas),FLK,98.3
+Faroe Islands,FRO,95.1
+Fiji,FJI,46.5
+Finland,FIN,87.7
+France,FRA,85.6
+French Polynesia,PYF,68.4
+Gabon,GAB,48.1
+"Gambia, The",GMB,18.5
+Gaza Strip,GZA,57.4
+Georgia,GEO,50.0
+Germany,DEU,89.6
+Ghana,GHA,34.7
+Gibraltar,GIB,94.4
+Greece,GRC,69.1
+Greenland,GRL,68.5
+Grenada,GRD,55.9
+Guam,GUM,77.0
+Guatemala,GTM,34.5
+Guernsey,GGY,83.3
+Guinea,GIN,9.8
+Guinea-Bissau,GNB,3.8
+Guyana,GUY,35.7
+Haiti,HTI,12.2
+Honduras,HND,30.0
+Hong Kong,HKG,85.0
+Hungary,HUN,79.3
+Iceland,ISL,98.2
+India,IND,29.5
+Indonesia,IDN,25.4
+Iran,IRN,44.1
+Iraq,IRQ,21.2
+Ireland,IRL,82.2
+Israel,ISR,79.8
+Italy,ITA,61.3
+Jamaica,JAM,45.0
+Japan,JPN,92.0
+Jersey,JEY,59.6
+Jordan,JOR,62.3
+Kazakhstan,KAZ,76.8
+Kenya,KEN,26.0
+Kiribati,KIR,13.7
+"Korea, South",KOR,89.9
+Kuwait,KWT,78.4
+Kyrgyzstan,KGZ,34.5
+Laos,LAO,18.2
+Latvia,LVA,79.9
+Lebanon,LBN,76.1
+Lesotho,LSO,27.4
+Liberia,LBR,7.3
+Libya,LBY,20.3
+Liechtenstein,LIE,98.1
+Lithuania,LTU,74.4
+Luxembourg,LUX,97.5
+Macau,MAC,77.6
+Madagascar,MDG,4.7
+Malawi,MWI,9.6
+Malaysia,MYS,78.8
+Maldives,MDV,59.1
+Mali,MLI,11.1
+Malta,MLT,77.3
+Marshall Islands,MHL,29.8
+Mauritania,MRT,18.0
+Mauritius,MUS,53.2
+Mexico,MEX,59.5
+"Micronesia, Federated States of",FSM,31.5
+Moldova,MDA,71.0
+Monaco,MCO,95.2
+Mongolia,MNG,22.3
+Montenegro,MNE,69.9
+Montserrat,MSR,54.6
+Morocco,MAR,58.3
+Mozambique,MOZ,17.5
+Namibia,NAM,31.0
+Nauru,NRU,53.5
+Nepal,NPL,19.7
+Netherlands,NLD,90.4
+New Caledonia,NCL,74.0
+New Zealand,NZL,88.5
+Nicaragua,NIC,24.6
+Niger,NER,4.3
+Nigeria,NGA,25.7
+Niue,NIU,91.6
+Norfolk Island,NFK,34.6
+North Macedonia,MKD,70.4
+Northern Mariana Islands,MNP,30.6
+Norway,NOR,97.3
+Oman,OMN,69.8
+Pakistan,PAK,15.5
+Palau,PLW,36.0
+Panama,PAN,54.0
+Papua New Guinea,PNG,9.6
+Paraguay,PRY,51.3
+Peru,PER,45.5
+Philippines,PHL,55.5
+Pitcairn Islands,PCN,100.0
+Poland,POL,73.3
+Portugal,PRT,70.4
+Puerto Rico,PRI,80.3
+Qatar,QAT,94.3
+Romania,ROM,59.5
+Russia,RUS,76.4
+Rwanda,RWA,29.8
+"Saint Helena, Ascension, and Tristan da Cunha",SHN,23.1
+Saint Kitts and Nevis,KNA,75.7
+Saint Lucia,LCA,52.4
+Saint Martin,MAF,3.5
+Saint Pierre and Miquelon,SPM,79.5
+Saint Vincent and the Grenadines,VCT,51.8
+Samoa,WSM,29.4
+San Marino,SMR,52.6
+Sao Tome and Principe,STP,25.8
+Saudi Arabia,SAU,73.8
+Senegal,SEN,25.7
+Serbia,SRB,67.1
+Seychelles,SYC,56.5
+Sierra Leone,SLE,11.8
+Singapore,SGP,81.0
+Slovakia,SVK,80.5
+Slovenia,SVN,75.5
+Solomon Islands,SLB,11.0
+Somalia,SOM,1.9
+South Africa,ZAF,54.0
+Spain,ESP,80.6
+Sri Lanka,LKA,32.1
+Sudan,SDN,28.0
+Suriname,SUR,45.4
+Sweden,SWE,91.5
+Switzerland,CHE,89.4
+Syria,SYR,31.9
+Taiwan,TWN,88.0
+Tajikistan,TJK,20.5
+Tanzania,TZA,13.0
+Thailand,THA,47.5
+Timor-Leste,TMP,25.2
+Togo,TGO,11.3
+Tokelau,TKL,60.2
+Tonga,TON,40.0
+Trinidad and Tobago,TTO,69.2
+Tunisia,TUN,50.9
+Turkey,TUR,58.3
+Turkmenistan,TKM,18.0
+Tuvalu,TUV,46.0
+Uganda,UGA,45.9
+Ukraine,UKR,52.5
+United Arab Emirates,ARE,90.6
+United Kingdom,GBR,94.8
+United States,USA,76.2
+Uruguay,URY,66.4
+Uzbekistan,UZB,46.8
+Vanuatu,VUT,24.0
+Venezuela,VEN,60.0
+Vietnam,VNM,52.7
+Virgin Islands,VIR,54.8
+Wallis and Futuna,WLF,22.1
+West Bank,PSE,57.4
+Yemen,YEM,24.6
+Zambia,ZMB,25.5
+Zimbabwe,ZWE,23.1
